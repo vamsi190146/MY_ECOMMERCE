@@ -76,13 +76,16 @@ The admin dashboard allows administrators to manage products, categories, and or
    cd MY_ECOMMERCE
    
 2.Install dependencies for both the frontend and backend:
+
+```bash
 cd frontend
 npm install
 
 cd ../backend
 npm install
-3.Set up environment variables:
 
+3.Set up environment variables:
+```bash
 Create a .env file in the backend directory and add the following:
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
