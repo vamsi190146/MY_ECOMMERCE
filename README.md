@@ -85,7 +85,7 @@ cd ../backend
 npm install
 
 3.Set up environment variables:
-```bash
+
 Create a .env file in the backend directory and add the following:
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
@@ -95,6 +95,8 @@ cd backend
 npm run dev
 Open another terminal for the frontend:cd frontend
 npm start
+
+
 ## Usage
 Users can register, log in, browse products, add them to their cart, and place orders.
 Admins can log in to the admin dashboard to manage products, categories, and orders.
