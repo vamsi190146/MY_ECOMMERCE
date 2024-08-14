@@ -39,7 +39,7 @@ This application allows users to browse products, add them to their cart, and co
 
 ### 1. Home Page
 
-![Home Page](images/homepage.png)
+![Home Page](https://github.com/vamsi190146/MY_ECOMMERCE/blob/master/uploads/2.png)
 
 The home page showcases featured products and categories. It provides easy navigation for users to explore different products.
 
@@ -51,19 +51,27 @@ The product page displays detailed information about the selected product, inclu
 
 ### 3. Shopping Cart
 
-![Shopping Cart](images/cart.png)
+![Shopping Cart](https://github.com/vamsi190146/MY_ECOMMERCE/blob/master/uploads/3.png)
 
 The shopping cart allows users to review the products they've selected, adjust quantities, and proceed to checkout.
 
 ### 4. Checkout Page
 
-![Checkout Page](images/checkout.png)
+![Checkout Page](https://github.com/vamsi190146/MY_ECOMMERCE/blob/master/uploads/4.png)
 
 The checkout page provides a summary of the order, including shipping details and payment options.
 
+
+### 4. Payment
+
+![Checkout Page](https://github.com/vamsi190146/MY_ECOMMERCE/blob/master/uploads/5.png)
+
+The Payment page provides a summary of the payment options, including shipping details and payment options.
+
+
 ### 5. Admin Dashboard
 
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](https://github.com/vamsi190146/MY_ECOMMERCE/blob/master/uploads/6.png)
 
 The admin dashboard allows administrators to manage products, categories, and orders with an easy-to-use interface.
 
