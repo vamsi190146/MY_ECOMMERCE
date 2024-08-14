@@ -74,6 +74,7 @@ The admin dashboard allows administrators to manage products, categories, and or
    ```bash
    git clone https://github.com/vamsi190146/MY_ECOMMERCE.git
    cd MY_ECOMMERCE
+   
 2.Install dependencies for both the frontend and backend:
 cd frontend
 npm install
@@ -91,11 +92,11 @@ cd backend
 npm run dev
 Open another terminal for the frontend:cd frontend
 npm start
-
-Usage
+## Usage
 Users can register, log in, browse products, add them to their cart, and place orders.
 Admins can log in to the admin dashboard to manage products, categories, and orders.
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-License
+
+## License
 This project is licensed under the MIT License.
