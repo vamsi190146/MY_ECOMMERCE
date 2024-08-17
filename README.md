@@ -1,6 +1,6 @@
 # My E-Commerce Application
 
-This project is a full-fledged e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a range of features from user authentication to product management, shopping cart, and order processing.
+This project is a full-fledged e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a range of features from user authentication to product management, shopping cart, and order processing..
 
 ## Table of Contents
 
